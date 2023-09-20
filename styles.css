@@ -1,0 +1,33 @@
+@charset "UTF-8";
+/* CSS Document for HowToBenowitz*/
+
+body{
+	background-color: #d2a966;
+	max-width: 75%;
+	margin-left: 10%;
+}
+
+.image{
+  float: right;
+}
+
+.imageTwo{
+	object-fit: cover;
+	width: 450px;
+}
+
+h1{
+	font-family: 'Spicy Rice', sans-serif;
+	font-size: 3em;
+}
+
+h2 {
+	font-family: 'Salsa', sans-serif;
+	font-size: 2em;
+}
+
+li{
+	font-family: 'Rambla', sans-serif;
+	font-size: 1em;
+	margin-bottom: 1em;
+}
